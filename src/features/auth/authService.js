@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "/api/users/";
+const API_URL = "https://selfjournal-backend.onrender.com/api/users/";
 
 //Signing up user
 const signup = async (userData) => {
