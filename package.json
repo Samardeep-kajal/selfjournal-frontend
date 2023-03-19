@@ -1,6 +1,7 @@
 {
   "name": "self-journal",
   "version": "0.1.0",
+  "proxy": "https://selfjournal-backend.onrender.com/",
   "private": true,
   "dependencies": {
     "@fortawesome/free-regular-svg-icons": "^6.2.0",
